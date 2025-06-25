@@ -1,1 +1,3 @@
-Shuva Pagolchoda
+\begin{document}
+$a^2$
+\end{document}
